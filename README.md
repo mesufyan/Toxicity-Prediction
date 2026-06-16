@@ -50,7 +50,7 @@ The same patients define train and test for both streams.
   held-out test set.
 
 ## Results (xerostomia)
-- Held-out test AUC: ~0.677  *(insert final number)*
+- Held-out test AUC: ~0.677 
 - Permutation null: ~0.51 ± 0.06 → measured signal is above chance.
 
 ## Notes / limitations
