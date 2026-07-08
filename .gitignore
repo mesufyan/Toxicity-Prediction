@@ -1,0 +1,7 @@
+# Ignore dataset folders
+Datasets/
+Drymouth/Datasets/
+
+# Optional: Ignore Excel and Parquet data files anywhere in the project
+*.xlsx
+*.parquet
