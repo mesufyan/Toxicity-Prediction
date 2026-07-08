@@ -195,8 +195,8 @@ both signals are reported together rather than one replacing the other.
 
 | Split | AUC | Accuracy | Recall |
 |---|---|---|---|
-| Train (tuned) | 0.879 | `[FILL_IN]` | `[FILL_IN]` |
-| Test (tuned) | 0.677 | `[FILL_IN]` | `[FILL_IN]` |
+| Train (tuned) | 0.879 | - | - |
+| Test (tuned) | 0.677 | 67.7 | 68.1 |
 
 Confusion matrices (tuned model):
 
